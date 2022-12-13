@@ -1,0 +1,1614 @@
+{
+    "Stats": {
+        "arrayCust": [
+                            {
+                                "name": "defuse_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "defuse_deaths",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "defuse_assists",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "defuse_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "defuse_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "defuse_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "defuse_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "defuse_games_played",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "deathmatch_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "deathmatch_deaths",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "deathmatch_assists",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "deathmatch_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "deathmatch_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "deathmatch_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "deathmatch_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "deathmatch_games_played",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "level_xp",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "level_id",
+                                "intValue": 1,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_g22_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_g22_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_g22_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_g22_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_g22_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_usp_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_usp_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_usp_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_usp_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_usp_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_p350_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_p350_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_p350_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_p350_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_p350_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_deagle_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_deagle_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_deagle_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_deagle_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_deagle_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_ump45_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_ump45_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_ump45_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_ump45_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_ump45_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_mp7_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_mp7_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_mp7_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_mp7_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_mp7_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_p90_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_p90_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_p90_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_p90_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_p90_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_akr_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_akr_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_akr_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_akr_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_akr_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_akr12_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_akr12_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_akr12_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_akr12_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_akr12_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m4_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m4_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m4_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m4_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m4_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m16_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m16_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m16_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m16_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m16_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_famas_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_famas_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_famas_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_famas_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_famas_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_awm_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_awm_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_awm_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_awm_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_awm_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m40_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m40_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m40_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m40_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_m40_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_sm1014_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_sm1014_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_sm1014_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_sm1014_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_sm1014_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knife_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knife_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knife_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knife_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knife_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifebayonet_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifebayonet_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifebayonet_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifebayonet_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifebayonet_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifekarambit_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifekarambit_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifekarambit_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifekarambit_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifekarambit_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifebutterfly_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifebutterfly_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifebutterfly_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifebutterfly_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_knifebutterfly_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_jkommando_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_jkommando_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_jkommando_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_jkommando_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_defuse_jkommando_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_g22_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_g22_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_g22_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_g22_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_g22_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_usp_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_usp_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_usp_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_usp_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_usp_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_p350_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_p350_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_p350_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_p350_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_p350_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_deagle_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_deagle_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_deagle_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_deagle_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_deagle_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_ump45_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_ump45_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_ump45_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_ump45_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_ump45_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_mp7_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_mp7_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_mp7_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_mp7_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_mp7_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_p90_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_p90_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_p90_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_p90_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_p90_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_akr_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_akr_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_akr_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_akr_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_akr_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_akr12_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_akr12_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_akr12_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_akr12_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_akr12_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m4_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m4_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m4_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m4_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m4_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m16_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m16_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m16_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m16_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m16_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_famas_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_famas_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_famas_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_famas_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_famas_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_awm_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_awm_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_awm_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_awm_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_awm_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m40_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m40_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m40_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m40_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_m40_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_sm1014_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_sm1014_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_sm1014_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_sm1014_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_sm1014_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knife_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knife_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knife_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knife_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knife_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifebayonet_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifebayonet_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifebayonet_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifebayonet_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifebayonet_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifekarambit_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifekarambit_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifekarambit_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifekarambit_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifekarambit_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifebutterfly_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifebutterfly_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifebutterfly_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifebutterfly_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_knifebutterfly_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_jkommando_kills",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_jkommando_damage",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_jkommando_headshots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_jkommando_hits",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "gun_deathmatch_jkommando_shots",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "ranked_rank",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "ranked_current_mmr",
+                                "intValue": 500,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "ranked_ban_code",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "ranked_ban_duration",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "ranked_calibration_match_count",
+                                "intValue": 0,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            },
+                            {
+                                "name": "ranked_last_match_status",
+                                "intValue": 1,
+                                "floatValue": 0.0,
+                                "window": 0.0,
+                                "type": "INT"
+                            }
+                        ]
+                    },
+                    "FileStorage": [
+                        {
+                            "FileName": "ranked_last_room_id",
+                            "File": [
+                                123,
+                                34,
+                                76,
+                                97,
+                                115,
+                                116,
+                                82,
+                                111,
+                                111,
+                                109,
+                                73,
+                                100,
+                                34,
+                                58,
+                                34,
+                                34,
+                                44,
+                                34,
+                                76,
+                                97,
+                                115,
+                                116,
+                                82,
+                                101,
+                                103,
+                                105,
+                                111,
+                                110,
+                                34,
+                                58,
+                                34,
+                                34,
+                                125
+                            ]
+                        }
+                    ]
+}
